@@ -1,0 +1,16 @@
+Date,Type,Amount (INR),Category,Note
+2026-06-20,expense,1200.00,Transport,Train pass
+2026-06-23,income,42000.00,Salary,Biweekly paycheck
+2026-06-25,expense,500.00,Entertainment,Streaming
+2026-06-27,expense,900.00,Health,Pharmacy
+2026-06-30,expense,1800.00,Food & Drink,Groceries
+2026-07-02,expense,15000.00,Housing,Rent share
+2026-07-06,expense,600.00,Entertainment,Movie night
+2026-07-08,expense,180.00,Food & Drink,Coffee run
+2026-07-09,expense,2200.00,Shopping,New shoes
+2026-07-11,expense,1500.00,Transport,Fuel
+2026-07-12,income,42000.00,Salary,Biweekly paycheck
+2026-07-13,expense,1200.00,Utilities,Electricity bill
+2026-07-14,expense,350.00,Food & Drink,Lunch with a friend
+2026-07-15,expense,100.00,Other,Prints and Xerox
+2026-07-15,expense,700.00,Health,Routine Checkup
