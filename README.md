@@ -23,6 +23,8 @@ Plain HTML, CSS, and vanilla JavaScript — no build step, no framework, no depe
 ## Running it locally
 
 Just open `index.html` in any browser — no installation needed.
+<img width="1672" height="1002" alt="image" src="https://github.com/user-attachments/assets/70bd58a8-a403-402c-801e-dd173d6dafef" />
+
 
 ## Deploying to GitHub Pages
 
